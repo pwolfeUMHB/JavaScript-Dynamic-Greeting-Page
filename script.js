@@ -1,7 +1,8 @@
-document.getElementById('displayInput').addEventListener("click",fucntion(){
+    document.getElementById('displayInput').addEventListener("click",function(){
 
-    const userInput = document.getElementById('userInput').value;
-document.getElementById('output').textContent = userInput;
+    var userInput = document.getElementById('userInput').value;
 
-
+ // Displaying Personalized Greeting
+    var greetingMessage = document.getElementById('greetingMessage');
+    greetingMessage.textContent = 'Hello,' + userInput + '! How may I assist you today';
 });
