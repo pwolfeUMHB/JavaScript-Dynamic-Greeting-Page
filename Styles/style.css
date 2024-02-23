@@ -1,0 +1,8 @@
+.Name_Block{
+    position: fixed;
+    top: 10px;
+    background-color: lightblue;
+    padding: 50px 100px;
+    border-radius: 10px;
+    margin-left: 700px;
+}
