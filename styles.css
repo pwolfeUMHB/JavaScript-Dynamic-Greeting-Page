@@ -10,4 +10,7 @@ body {
     margin: 20px;
     padding: 20px;
     border-color: black;
+    border-radius: 20px;
+    width: 20%;
+    align-content: center;
 }
