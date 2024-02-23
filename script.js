@@ -1,4 +1,4 @@
-    document.getElementById('displayInput').addEventListener("click",function(){
+document.getElementById('displayInput').addEventListener("click",function(){
 
     var userInput = document.getElementById('userInput').value;
 

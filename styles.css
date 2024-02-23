@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:tan;
+    margin: 20px;
+}
+.container {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: gray;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    border-color: black;
+}
